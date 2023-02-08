@@ -10,3 +10,5 @@ D:\FPT\Learning-CSharp\Template_SWD\DAL\obj\Debug\net6.0\DAL.dll
 D:\FPT\Learning-CSharp\Template_SWD\DAL\obj\Debug\net6.0\refint\DAL.dll
 D:\FPT\Learning-CSharp\Template_SWD\DAL\obj\Debug\net6.0\DAL.pdb
 D:\FPT\Learning-CSharp\Template_SWD\DAL\obj\Debug\net6.0\ref\DAL.dll
+D:\FPT\Learning-CSharp\Template_SWD\DAL\bin\Debug\net6.0\DAL.runtimeconfig.json
+D:\FPT\Learning-CSharp\Template_SWD\DAL\obj\Debug\net6.0\DAL.genruntimeconfig.cache
